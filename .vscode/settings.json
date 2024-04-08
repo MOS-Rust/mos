@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.cargo.target": "mipsel-unknown-none",
+    "rust-analyzer.check.allTargets": false,
+}
