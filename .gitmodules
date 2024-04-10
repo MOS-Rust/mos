@@ -1,3 +1,6 @@
 [submodule "kernel"]
 	path = kernel
 	url = git@github.com:MOS-Rust/kernel.git
+[submodule "tools"]
+	path = tools
+	url = git@github.com:MOS-Rust/tools.git
