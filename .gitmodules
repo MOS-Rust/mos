@@ -4,3 +4,6 @@
 [submodule "tools"]
 	path = tools
 	url = git@github.com:MOS-Rust/tools.git
+[submodule "list"]
+	path = list
+	url = git@github.com:MOS-Rust/list.git
