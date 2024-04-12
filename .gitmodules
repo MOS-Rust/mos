@@ -7,6 +7,6 @@
 [submodule "list"]
 	path = list
 	url = git@github.com:MOS-Rust/list.git
-[submodule "alloc"]
-	path = alloc
-	url = git@github.com:MOS-Rust/alloc.git
+[submodule "allocator"]
+	path = allocator
+	url = git@github.com:MOS-Rust/allocator.git
