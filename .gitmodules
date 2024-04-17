@@ -10,6 +10,3 @@
 [submodule "allocator"]
 	path = allocator
 	url = git@github.com:MOS-Rust/allocator.git
-[submodule "page"]
-	path = page
-	url = ./page
