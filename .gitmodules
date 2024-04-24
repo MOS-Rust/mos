@@ -10,3 +10,6 @@
 [submodule "allocator"]
 	path = allocator
 	url = git@github.com:MOS-Rust/allocator.git
+[submodule "user"]
+	path = user
+	url = git@github.com:MOS-Rust/user.git
