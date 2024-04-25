@@ -38,9 +38,9 @@ To build the MOS-Rust project, follow these steps:
 
 **Phase 1**: Bootstrapping and basic IO (completed)
 
-**Phase 2**: Memory management
+**Phase 2**: Memory management (mostly completed)
 
-**Phase 3**: Exception handling
+**Phase 3**: Exception handling (working)
 
 **Phase 4**: Process management
 
