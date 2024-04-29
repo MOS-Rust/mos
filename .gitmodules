@@ -13,3 +13,6 @@
 [submodule "user"]
 	path = user
 	url = git@github.com:MOS-Rust/user.git
+[submodule "mips"]
+	path = mips
+	url = git@github.com:MOS-Rust/mips.git

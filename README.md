@@ -4,7 +4,7 @@ Welcome to the official repository of the MOS-Rust project, where we are activel
 ## Overview
 MOS-Rust aims to recreate the MOS operating system in Rust, focusing on educational use to teach operating system concepts and Rust programming. The project is divided into several phases, each focusing on a specific aspect of the operating system. 
 
-The project is currently in the early stages of development of Phase 2.
+The project is currently in the early stages of development of Phase 3.
 
 ## Getting Started
 
