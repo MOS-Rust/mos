@@ -4,7 +4,7 @@ Welcome to the official repository of the MOS-Rust project, where we are activel
 ## Overview
 MOS-Rust aims to recreate the MOS operating system in Rust, focusing on educational use to teach operating system concepts and Rust programming. The project is divided into several phases, each focusing on a specific aspect of the operating system. 
 
-The project is currently in the early stages of development of Phase 3.
+The project is completed, and we are making effort to improve its functionality and readability.
 
 ## Getting Started
 
@@ -36,11 +36,11 @@ To build the MOS-Rust project, follow these steps:
 
 ## Project Phases
 
-**Phase 1**: Bootstrapping and basic IO (completed)
+**Phase 1**: Bootstrapping and basic IO
 
-**Phase 2**: Memory management (mostly completed)
+**Phase 2**: Memory management
 
-**Phase 3**: Exception handling (working)
+**Phase 3**: Exception handling
 
 **Phase 4**: Process management
 
